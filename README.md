@@ -17,7 +17,7 @@ is a web application developed using ReactJs and JavaScript. This application pu
 
 
 #UI Screen
-![App Screenshot](https://github.com/nischal-jadhav123/readme_screenshots_global/blob/main/news-api-app-architecture.drawio.png?raw=true)
+![App Screenshot](https://github.com/nischal-jadhav123/news-api-app-react/blob/master/public/screenshots/Screenshot%202023-06-09%20at%204.23.32%20PM.png?raw=true)
 
 
 ## Available Scripts
