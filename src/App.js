@@ -45,7 +45,7 @@ function App() {
   };
 
   const postData = async () => {
-    const url = "http://localhost:8080/api/v1/news";
+    const url = "http://3.110.82.192:8080/api/v1/news";
     const data = {
       filterType: filterType,
       filterValue: filterValue,
