@@ -11,13 +11,14 @@ is a web application developed using ReactJs and JavaScript. This application pu
 
 ## CI/CD Pipeline
 
+Application is hosted in AWS amplify using amplify built-in code build and code deploy pipeline. 
+![App Screenshot](https://github.com/nischal-jadhav123/news-api-app-react/blob/master/public/screenshots/Screenshot%202023-06-09%20at%205.13.02%20PM.png?raw=true)
 
 
 
 
-
-#UI Screen
-![App Screenshot](https://github.com/nischal-jadhav123/news-api-app-react/blob/master/public/screenshots/Screenshot%202023-06-09%20at%204.23.32%20PM.png?raw=true)
+## UI Screen
+![App Screenshot](https://github.com/nischal-jadhav123/news-api-app-react/blob/master/public/screenshots/Screenshot%202023-06-09%20at%205.12.39%20PM.png?raw=true)
 
 
 ## Available Scripts
